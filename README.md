@@ -26,10 +26,12 @@ I am a CEO and content writer, **[Code & Career Golpo Newsletter](https://www.li
 Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
 </div> -->
 <div align="center">
-  I am currently a <b>Software Engineering / Computer Science student</b>. <br />
-  I am passionate about <b>problem solving, full-stack development, and building real-world projects</b>. <br />
-  I enjoy working with modern web technologies and continuously improving my skills through projects and competitive programming. <br />
-</div>
+  - 🔭 Computer Science undergraduate with a strong focus on problem-solving and full-stack development  
+- 🌱 Currently building scalable projects using the MERN stack and improving DSA with C++  
+- 🚀 Actively working on real-world projects and polishing my software engineering fundamentals  
+- 👯 Interested in learning through open-source contributions and collaborative development  
+- 🥅 2025 Goals: Become industry-ready in backend systems and crack top tech internships  
+- ⚡ Interests: Competitive programming, system design basics, and how AI is reshaping software engineering 😄
 
  <!-- Heading and BIO -->
 
