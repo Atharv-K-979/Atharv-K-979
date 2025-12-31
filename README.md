@@ -211,7 +211,6 @@ I am currently a <b>Software Engineering / Computer Science student</b>. <br />
 <!-- Contribution Stack -->
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Atharv-K-979&theme=dark&hide_border=false" />
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 <!-- Contribution Statistics and Visuals -->
@@ -219,10 +218,13 @@ I am currently a <b>Software Engineering / Computer Science student</b>. <br />
 <!-- Activity Graph -->
 
 <!-- Activity Graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv-K-979&bg_color=f0f3ec&color=562e49&line=3a2232&point=bd6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Contribution Stack -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv-K-979&bg_color=f0f3ec&color=562e49&line=3a2232&point=bd6b6b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Atharv-K-979&theme=dark&hide_border=false" />
 
 <!-- Photography Section -->
 <!-- <div align="center">
