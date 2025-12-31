@@ -10,11 +10,7 @@
 
 ![](https://hit.yhype.me/github/profile?account_id=61287791) -->
 
-<div align="center">
-<a href = "https://drive.google.com/file/d/1svlQYr8V6pP7HQ_MOeWKMP4uDM2v41RG/view" ><img src="https://img.shields.io/badge/My%20CV-%40Atharv-blue" width="200" height="35"></a>
-<a href = "https://medium.com/@atharvvk853" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="240" height="42"></a>
-<a href = "https://atharvkulkarni4898.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35"></a>
-</div>
+
 
  <!-- Banner & Links -->
 
@@ -85,6 +81,14 @@ I am currently a <b>Software Engineering / Computer Science student</b>. <br />
 </p>
 
 </div>
+<div align="center">
+<a href = "https://drive.google.com/file/d/1svlQYr8V6pP7HQ_MOeWKMP4uDM2v41RG/view" ><img src="https://img.shields.io/badge/My%20CV-%40Atharv-blue" width="200" height="35"></a>
+<a href = "https://medium.com/@atharvvk853" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="240" height="42"></a>
+<a href = "https://atharvkulkarni4898.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35"></a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Contact Section -->
 
 <!-- Achievement Corner -->
@@ -108,15 +112,18 @@ I am currently a <b>Software Engineering / Computer Science student</b>. <br />
  Achievement Corner -->
 
  <!-- Banners 2nd Phase -->
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=31B6F7&width=435&lines=I+am+a+Full-Stack+Web+Developer++++;+I+love+writing+clean+and+efficient+code;+I+build+scalable+software+applications;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+
 <p align='center'>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
 </p>
+
+
  <!-- Banners 2nd Phase -->
 
  <!-- Typewriting Introduction -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=31B6F7&width=435&lines=I+am+a+Full-Stack+Web+Developer++++;+I+love+writing+clean+and+efficient+code;+I+build+scalable+software+applications;Aspiring+Software+Engineer)](https://git.io/typing-svg)
  <!-- Typewriting Introduction -->
 
  <!-- Banners 3rd Phase : About Me -->
