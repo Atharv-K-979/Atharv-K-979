@@ -1,5 +1,5 @@
  <!-- Banner & Links -->
-<div align="center">
+<!-- <div align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50" alt="YouTube Icon"/>
 <a href="https://www.youtube.com/@codecareergolpo5638"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF3918&center=true&vCenter=true&width=430&lines=(Subscribe)+Code+%26+Career+Golpo+YouTube" alt="Typing SVG" /</a>
 </div>
@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/newsletters/learn-code-weekly-7309186050084544512"><img align='center' src= "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rlf76l0a1eeo0yelzib.png" width="80%"></a> 
 </div>
 
-![](https://hit.yhype.me/github/profile?account_id=61287791)
+![](https://hit.yhype.me/github/profile?account_id=61287791) -->
 
 <div align="center">
 <a href = "https://drive.google.com/file/d/1svlQYr8V6pP7HQ_MOeWKMP4uDM2v41RG/view" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
