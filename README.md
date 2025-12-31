@@ -6,7 +6,7 @@
 <!-- <p align="center>
 <img src="./images/header.png">
 </p> -->
-<a href="" ><img src="./images/header.png" width="42" height="30" alt="linktree logo"  /></a>
+<img src="./images/header.png" width="42" height="30" alt="linktree logo">
 <div align="center">
   <p>
     I am currently a <b>Computer Science / Software Engineering student</b>.<br/>
