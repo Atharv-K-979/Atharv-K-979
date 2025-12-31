@@ -11,7 +11,7 @@
 ![](https://hit.yhype.me/github/profile?account_id=61287791) -->
 
 <div align="center">
-<a href = "https://drive.google.com/file/d/1svlQYr8V6pP7HQ_MOeWKMP4uDM2v41RG/view" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
+<a href = "https://drive.google.com/file/d/1svlQYr8V6pP7HQ_MOeWKMP4uDM2v41RG/view" ><img src="https://img.shields.io/badge/My%20CV-%40Atharv-blue" width="200" height="35"></a>
 <a href = "https://medium.com/@atharvvk853" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="240" height="42"></a>
 <a href = "https://atharvkulkarni4898.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="225" height="35"></a>
 </div>
