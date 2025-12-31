@@ -128,10 +128,15 @@ I am currently a <b>Software Engineering / Computer Science student</b>. <br />
  <!-- About Me -->
 <p align='left'>
 🔭 CS undergrad, problem-solver
+
 🌱 MERN stack & DSA
+
 🚀 Building real-world projects
+
 👯 Open-source & collaboration
+
 🥅 Industry-ready by 2025
+
 ⚡ CP, systems & Ai
 </p>
  <!-- About Me -->
