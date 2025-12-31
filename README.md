@@ -26,13 +26,7 @@ I am a CEO and content writer, **[Code & Career Golpo Newsletter](https://www.li
 Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b>. <br />
 </div> -->
 <div align="center">
-  - 🔭 Computer Science undergraduate with a strong focus on problem-solving and full-stack development  
-- 🌱 Currently building scalable projects using the MERN stack and improving DSA with C++  
-- 🚀 Actively working on real-world projects and polishing my software engineering fundamentals  
-- 👯 Interested in learning through open-source contributions and collaborative development  
-- 🥅 2025 Goals: Become industry-ready in backend systems and crack top tech internships  
-- ⚡ Interests: Competitive programming, system design basics, and how AI is reshaping software engineering 😄
-
+  
  <!-- Heading and BIO -->
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
@@ -70,7 +64,13 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <!-- Contact Section -->
 
 <div align="center">
+I am a Full-Stack Web Developer
 
+I love writing clean and efficient code
+
+I build scalable software applications
+
+Aspiring Software Engineer
 <h3 align="center"><b>📞 Connect with me</b> </h3>
 
 <p align="center">
@@ -131,12 +131,12 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 
  <!-- About Me -->
 <p align='left'>
-- 🔭 <b>Software Engineering</b> graduated from <b>SUST</b><br>
-- 🌱 I’m currently exploring in depth full stack web development 😁<br>
-- ✨ Maintaining a Newsletter & Youtube Channel : Code & Career Golpo <br>
-- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
-- ⚡ Interests : How chatgpt going to take my job !😏<br>
+- 🔭 Computer Science undergraduate with a strong focus on problem-solving and full-stack development  
+- 🌱 Currently building scalable projects using the MERN stack and improving DSA with C++  
+- 🚀 Actively working on real-world projects and polishing my software engineering fundamentals  
+- 👯 Interested in learning through open-source contributions and collaborative development  
+- 🥅 2025 Goals: Become industry-ready in backend systems and crack top tech internships  
+- ⚡ Interests: Competitive programming, system design basics, and how AI is reshaping software engineering 😄
 </p>
  <!-- About Me -->
 
