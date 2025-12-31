@@ -138,11 +138,6 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=Atharv-K-979&theme=dark&hide_border=true"/>
 
 ---
-
-
-
-
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
