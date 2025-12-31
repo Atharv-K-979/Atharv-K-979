@@ -83,7 +83,7 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <a href="https://stackoverflow.com/users/27322432/atharv" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
 <a href="https://codeforces.com/profile/atharv_k_656" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="linktree logo"  /></a>
 <a href="https://leetcode.com/u/atharv_kulkarni_853/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
-<a href="https://www.codechef.com/users/mr_professor74" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" width="42" height="30" alt="linktree logo"  /></a>
+<a href="https://www.codechef.com/users/mr_professor74" ><img src="./images/codechef.png" width="42" height="30" alt="linktree logo"  /></a>
 </p>
 
 </div>
@@ -159,8 +159,7 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
-<!-- - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg) -->
-  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg)
 - ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg)
   ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap2.svg)
