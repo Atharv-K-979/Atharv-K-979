@@ -13,6 +13,6 @@ build
 .DS_Store
 .vscode
 
+# Personal / private files
 DailyDev.md
-
 Projects.md
