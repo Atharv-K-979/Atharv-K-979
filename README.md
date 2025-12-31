@@ -5,7 +5,7 @@
 </h1>
 <p align="center>
 <img src="./images/header.png">
-<p>
+</p>
 <div align="center">
   <p>
     I am currently a <b>Computer Science / Software Engineering student</b>.<br/>
