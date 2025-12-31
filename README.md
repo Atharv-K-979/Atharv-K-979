@@ -3,9 +3,10 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" />
   , I am Atharv Kulkarni
 </h1>
-<p align="center>
+<!-- <p align="center>
 <img src="./images/header.png">
-</p>
+</p> -->
+<a href="" ><img src="./images/header.png" width="42" height="30" alt="linktree logo"  /></a>
 <div align="center">
   <p>
     I am currently a <b>Computer Science / Software Engineering student</b>.<br/>
