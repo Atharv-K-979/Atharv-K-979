@@ -83,7 +83,7 @@ Besides, I studied <b>Software Engineering</b> in <b>Shahjalal University of Sci
 <a href="https://stackoverflow.com/users/27322432/atharv" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
 <a href="https://codeforces.com/profile/atharv_k_656" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="linktree logo"  /></a>
 <a href="https://leetcode.com/u/atharv_kulkarni_853/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
-<a href="https://www.codechef.com/users/mr_professor74" ><img src="./images/codechef.png" width="42" height="30" alt="linktree logo"  /></a>
+<a href="https://www.codechef.com/users/mr_professor74" ><img src="./images/codechef2.png" width="42" height="30" alt="linktree logo"  /></a>
 </p>
 
 </div>
