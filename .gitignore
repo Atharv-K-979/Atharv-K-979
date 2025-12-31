@@ -1,0 +1,14 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node / Next
+node_modules
+.next
+dist
+build
+
+# OS / Editor
+.DS_Store
+.vscode
