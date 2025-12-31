@@ -50,6 +50,8 @@
   <a href="https://leetcode.com/u/atharv_kulkarni_853/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30"/>
   </a>
+  <a href="https://www.codechef.com/users/mr_professor74" ><img src="./images/codechef2.png" width="42" height="30" alt="linktree logo"  /></a>
+  
 </p>
 
 ---
