@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1svlQYr8V6pP7HQ_MOeWKMP4uDM2v41RG/view">
+  <a href="https://drive.google.com/file/d/1ueZ6C7Q2PuVOjwXQj5S15leM6bpU3w96/view?usp=sharing">
     <img src="https://img.shields.io/badge/My%20CV-Atharv-blue" height="35"/>
   </a>
   <a href="https://medium.com/@atharvvk853">
